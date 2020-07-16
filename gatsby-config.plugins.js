@@ -9,7 +9,7 @@ module.exports = [
   {
     resolve: `@isamrish/gatsby-plugin-google-adsense`,
     options: {
-      googleAdClientId: "ca-pub-9393006506286450",
+      googleAdClientId: "ca-pub-5662099099909000",
       head: true,
     },
   },
